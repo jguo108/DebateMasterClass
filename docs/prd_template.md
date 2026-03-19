@@ -1,8 +1,8 @@
 
-# Goal
-What is this project about? Goal? Purpose? Problems to solve?
+## Goal
+What is this project about? goal? purpose? problems to solve?
 
-# Target Audience
+## Target Audience
 Who is this project for?
 
 ## User Stories
