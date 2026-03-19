@@ -1,14 +1,14 @@
 ## Goal
 
-What is this project about? goal? purpose? problems to solve?
+What is this app about? goal? purpose? problems to solve?
 
 ## Target Audience
 
-Who is this project for?
+Who is this app for?
 
 ## User Stories
 
-As a user, what can he/she do with this project? (3-4 user stories)
+As a user, what can he/she do with this app? (3-4 user stories)
 
 * User story 1
 * User story 2
@@ -17,7 +17,7 @@ As a user, what can he/she do with this project? (3-4 user stories)
 
 ## Functional Requirements
 
-How should the system behave to make the user stories possible?
+How should the app behave to make the user stories possible?
 
 * Behavior 1 (user story 1)
 * Behavior 2 (user story 1)
