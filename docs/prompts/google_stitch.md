@@ -1,1 +1,0 @@
-Based on the PRD, create all the necessary web pages for this application.
